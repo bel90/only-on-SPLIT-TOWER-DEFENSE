@@ -3,7 +3,7 @@ The Source Code of my first Game Jam Game, from GMTK Game Jam 2019 with the them
 I would be happy if you test it out and let a comment there =)
 I have written this Game in less than 48 hours/ 2 Days, during the GMTK Game Jam 2019.
 
-You are free to use this in any non-commercial project. I don't guarantee that this project is bug free.
+You are free to use this in any non-commercial project. I don't guarantee that this project is bug free. To use the Source Code you need Unity.
 
 I am also developing Games for mobile Devices. For more information, please visit me on Facebook https://www.facebook.com/TesiGames
 
