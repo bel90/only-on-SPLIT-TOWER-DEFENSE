@@ -6,3 +6,9 @@ I have written this Game in less than 48 hours/ 2 Days, during the GMTK Game Jam
 You are free to use this in any non-commercial project. I don't guarantee that this project is bug free.
 
 I am also developing Games for mobile Devices. For more information, please visit me on Facebook https://www.facebook.com/TesiGames
+
+Song is from Tagirijus - "Sawman and Son" (Album "Electronic 2018")
+
+Sound Effects are from Juhani Junkala from the "The Essential Retro Video Game Sound Effects Collection"
+
+Everything else is made by me.
